@@ -1,0 +1,26 @@
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\appsettings.Development.json
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\appsettings.json
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\Todo List Manager - BE.exe
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\Todo List Manager - BE.deps.json
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\Todo List Manager - BE.runtimeconfig.json
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\Todo List Manager - BE.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\Todo List Manager - BE.pdb
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.AssemblyInfoInputs.cache
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.AssemblyInfo.cs
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.csproj.CoreCompileInputs.cache
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.MvcApplicationPartsAssemblyInfo.cache
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.sourcelink.json
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\staticwebassets.build.json
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\staticwebassets.development.json
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\staticwebassets\msbuild.Todo List Manager - BE.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\staticwebassets\msbuild.build.Todo List Manager - BE.props
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Todo List Manager - BE.props
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Todo List Manager - BE.props
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\scopedcss\bundle\Todo List Manager - BE.styles.css
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\refint\Todo List Manager - BE.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.pdb
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.genruntimeconfig.cache
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\ref\Todo List Manager - BE.dll

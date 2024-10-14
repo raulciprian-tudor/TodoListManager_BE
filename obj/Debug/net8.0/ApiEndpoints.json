@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Todo_List_Manager___BE.Controllers.TestGet",
+    "Method": "Get",
+    "RelativePath": "Test/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
