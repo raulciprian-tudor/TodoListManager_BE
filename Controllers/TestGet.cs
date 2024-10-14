@@ -3,14 +3,15 @@
 namespace Todo_List_Manager___BE.Controllers
 {
     [ApiController]
-    [Route("Test")]
-    public class TestGet : ControllerBase
+    [Route("todo")]
+    public class TodoAPI : ControllerBase
     {
-        [HttpGet]
-        [Route("Get")]
-        public IActionResult Get()
+
+        [HttpPost]
+        [Route("CreateNewTodoItem")]
+        public IActionResult CreateNewTodoItem()
         {
-            return Ok("Hello, World!");
+            return Ok();
         }
     }
 }

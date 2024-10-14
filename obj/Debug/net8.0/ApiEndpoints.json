@@ -1,9 +1,9 @@
 [
   {
-    "ContainingType": "Todo_List_Manager___BE.Controllers.TestGet",
-    "Method": "Get",
-    "RelativePath": "Test/Get",
-    "HttpMethod": "GET",
+    "ContainingType": "Todo_List_Manager___BE.Controllers.TodoAPI",
+    "Method": "CreateNewTodoItem",
+    "RelativePath": "TODO/CreateNewTodoItem",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
