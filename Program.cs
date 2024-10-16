@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin",
-        builder => builder.WithOrigins("http://localhost:4200")
+        builder => builder.WithOrigins("https://localhost:4200")
                           .AllowAnyHeader()
                           .AllowAnyMethod());
 });
@@ -21,6 +21,7 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
+// swagger url = https://localhost:7018/swagger/index.html
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {

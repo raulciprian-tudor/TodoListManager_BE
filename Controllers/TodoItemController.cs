@@ -10,16 +10,30 @@ namespace Todo_List_Manager___BE.Controllers
     [ApiController]
     public class TodoItemController : ControllerBase
     {
-        private readonly IMongoCollection<TodoItem>? _todoItems;
-        public TodoItemController(MongoDbService mongoDbService)
-        {
-            _todoItems = mongoDbService.Database.GetCollection<TodoItem>("TodoItems");
-        }
+        //private readonly IMongoCollection<TodoItem>? _todoItems;
+        //public TodoItemController(MongoDbService mongoDbService)
+        //{
+        //    _todoItems = mongoDbService.Database.GetCollection<TodoItem>("TodoItems");
+        //}
+
+        //[HttpGet]
+        //public async Task<IEnumerable<TodoItem>> Get()
+        //{
+        //    return await _todoItems.Find(FilterDefinition<TodoItem>.Empty).ToListAsync();
+        //}
 
         [HttpGet]
-        public async Task<IEnumerable<TodoItem>> Get()
+        public Task<IEnumerable<TodoItem>> GetItems()
         {
-            return await _todoItems.Find(FilterDefinition<TodoItem>.Empty).ToListAsync();
+            return
+            Task.FromResult<IEnumerable<TodoItem>>([
+                new TodoItem
+                {
+                    Id = "1",
+                    Title = "Test",
+                    IsCompleted = true
+                }
+            ]);
         }
     }
 }

@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "E:\\Personal Work\\Todo-List-Manager\\Todo List Manager - BE\\TodoListManager_BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|e:\\personal work\\todo-list-manager\\todo list manager - be\\todolistmanager_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|e:\\personal work\\todo-list-manager\\todo list manager - be\\todolistmanager_be\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|solutionrelative:controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|e:\\personal work\\todo-list-manager\\todo list manager - be\\todolistmanager_be\\data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|solutionrelative:data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|e:\\personal work\\todo-list-manager\\todo list manager - be\\todolistmanager_be\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|solutionrelative:entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|e:\\personal work\\todo-list-manager\\todo list manager - be\\todolistmanager_be\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|solutionrelative:controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|e:\\personal work\\todo-list-manager\\todo list manager - be\\todolistmanager_be\\todo list manager - be.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|solutionrelative:todo list manager - be.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|e:\\personal work\\todo-list-manager\\todo list manager - be\\todolistmanager_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|e:\\personal work\\todo-list-manager\\todo list manager - be\\todolistmanager_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|e:\\personal work\\todo-list-manager\\todo list manager - be\\todolistmanager_be\\data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8327BD6-B1B2-404E-ACB3-345E7C56255B}|Todo List Manager - BE.csproj|solutionrelative:data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1580,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,32 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Todo List Manager - BE",
-              "DocumentMoniker": "E:\\Personal Work\\Todo-List-Manager\\Todo List Manager - BE\\TodoListManager_BE\\Todo List Manager - BE.csproj",
-              "RelativeDocumentMoniker": "Todo List Manager - BE.csproj",
-              "ToolTip": "E:\\Personal Work\\Todo-List-Manager\\Todo List Manager - BE\\TodoListManager_BE\\Todo List Manager - BE.csproj",
-              "RelativeToolTip": "Todo List Manager - BE.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-16T18:25:33.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TodoItemController.cs",
               "DocumentMoniker": "E:\\Personal Work\\Todo-List-Manager\\Todo List Manager - BE\\TodoListManager_BE\\Controllers\\TodoItemController.cs",
               "RelativeDocumentMoniker": "Controllers\\TodoItemController.cs",
               "ToolTip": "E:\\Personal Work\\Todo-List-Manager\\Todo List Manager - BE\\TodoListManager_BE\\Controllers\\TodoItemController.cs",
               "RelativeToolTip": "Controllers\\TodoItemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T17:37:44.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "E:\\Personal Work\\Todo-List-Manager\\Todo List Manager - BE\\TodoListManager_BE\\Entities\\TodoItem.cs",
               "RelativeDocumentMoniker": "Entities\\TodoItem.cs",
@@ -88,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MongoDbService.cs",
               "DocumentMoniker": "E:\\Personal Work\\Todo-List-Manager\\Todo List Manager - BE\\TodoListManager_BE\\Data\\MongoDbService.cs",
               "RelativeDocumentMoniker": "Data\\MongoDbService.cs",
@@ -101,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Personal Work\\Todo-List-Manager\\Todo List Manager - BE\\TodoListManager_BE\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Personal Work\\Todo-List-Manager\\Todo List Manager - BE\\TodoListManager_BE\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T17:55:00.45Z",
               "EditorCaption": ""
@@ -122,8 +106,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-14T17:54:35.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T17:54:35.704Z"
             }
           ]
         },

@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "Todo_List_Manager___BE.Controllers.TodoItemController",
-    "Method": "Get",
+    "Method": "GetItems",
     "RelativePath": "api/TodoItem",
     "HttpMethod": "GET",
     "IsController": true,
