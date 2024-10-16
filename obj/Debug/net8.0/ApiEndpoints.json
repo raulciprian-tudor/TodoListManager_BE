@@ -1,12 +1,22 @@
 [
   {
-    "ContainingType": "Todo_List_Manager___BE.Controllers.TodoAPI",
-    "Method": "CreateNewTodoItem",
-    "RelativePath": "TODO/CreateNewTodoItem",
-    "HttpMethod": "POST",
+    "ContainingType": "Todo_List_Manager___BE.Controllers.TodoItemController",
+    "Method": "Get",
+    "RelativePath": "api/TodoItem",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Todo_List_Manager___BE.Entities.TodoItem, Todo List Manager - BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

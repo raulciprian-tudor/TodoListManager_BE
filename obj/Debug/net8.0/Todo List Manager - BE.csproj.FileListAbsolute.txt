@@ -24,3 +24,25 @@ E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj
 E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.pdb
 E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.genruntimeconfig.cache
 E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\ref\Todo List Manager - BE.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\AWSSDK.Core.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\DnsClient.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\SharpCompress.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\Snappier.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\ZstdSharp.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.csproj.AssemblyReference.cache
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo Lis.DEB5FFB8.Up2Date
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.MvcApplicationPartsAssemblyInfo.cs
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\bin\Debug\net8.0\Todo List Manager - BE.xml
+E:\Personal Work\Todo-List-Manager\Todo List Manager - BE\TodoListManager_BE\obj\Debug\net8.0\Todo List Manager - BE.xml

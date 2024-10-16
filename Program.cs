@@ -1,26 +1,8 @@
-using Microsoft.Extensions.Options;
-using MongoDB.Driver;
-using Todo_List_Manager___BE.Configurations;
+using Microsoft.OpenApi.Models;
+using Todo_List_Manager___BE.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.Configure<MongoDBSettings>(
-    builder.Configuration.GetSection(nameof(MongoDBSettings)));
-
-builder.Services.AddSingleton<IMongoClient, MongoClient>(sp =>
-{
-    var settings = sp.GetRequiredService<IOptions<MongoDBSettings>>().Value;
-    return new MongoClient(settings.ConnectionString);
-});
-
-builder.Services.AddSingleton(sp =>
-{
-    var settings = sp.GetRequiredService<IOptions<MongoDBSettings>>().Value;
-    var client = sp.GetRequiredService<IMongoClient>();
-    return client.GetDatabase(settings.DatabaseName);
-});
-
-builder.Services.AddRazorPages();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin",
@@ -28,15 +10,23 @@ builder.Services.AddCors(options =>
                           .AllowAnyHeader()
                           .AllowAnyMethod());
 });
+builder.Services.AddRazorPages();
 builder.Services.AddControllers();
+builder.Services.AddSingleton<MongoDbService>();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Todo_List_Manager_BE", Version = "v1" });
+});
 
 var app = builder.Build();
 
-if (!app.Environment.IsDevelopment())
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseExceptionHandler("/Error");
-    app.UseHsts();
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Todo_List_Manager_BE v1");
+    c.RoutePrefix = "swagger";
+});
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
